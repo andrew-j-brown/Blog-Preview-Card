@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-To be done
+![Screenshot of finished project](assets/images/screenshot.png)
 
 ### Links
 
