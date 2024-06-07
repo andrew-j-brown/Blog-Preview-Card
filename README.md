@@ -40,9 +40,9 @@ Users should be able to:
 
 ### What I learned
 
-~~This project gave me practice using fonts stored in an asset folder as opposed to linking to Google fonts. I also got to use some flexbox to arrange the card elements.
+~~This project gave me practice using fonts stored in an asset folder as opposed to linking to Google fonts. I also got to use some flexbox to arrange the card elements.~~
 
-I really enjoyed setting up the card's box shadow to only update when the heading is hovered, rather than hovering anywhere on the card.~~
+~~I really enjoyed setting up the card's box shadow to only update when the heading is hovered, rather than hovering anywhere on the card.~~
 
 The two main things I learned about on this project, were pointer events (to prevent the drop shadow from updating unless the heading is hovered) and the clamp function (to dynamically resize the font without relying on media queries).
 
